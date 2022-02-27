@@ -11,7 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Swaps: Add support for Smart Transactions on Mainnet and Rinkeby ([#12676](https://github.com/MetaMask/metamask-extension/pull/12676))
 - Add "Token details" page ([#13216](https://github.com/MetaMask/metamask-extension/pull/13216))
 - Add icons to sections in settings ([#12920](https://github.com/MetaMask/metamask-extension/pull/12920))
-- Add EIP-712 support for Trezor ([#13693](https://github.com/MetaMask/metamask-extension/pull/13693))
+- Add EIP-712 support for Trezor ([#13693](https://github.com/MetaMask/metamask-extension/pull/13693)) by BQM
 
 ### Changed
 - Swaps: Change language "Quote X of Y" to "Fetching quote X of Y" ([#13663](https://github.com/MetaMask/metamask-extension/pull/13663))
